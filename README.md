@@ -2,7 +2,6 @@
 # Scam Investment Detector 🕵️‍♂️💰
 
 **Problem-Statement --> Build an AI tool that analyzes pitches or investment offers for red flags and explains why they might be risky.**
-
 ---
 
 ## Introduction
